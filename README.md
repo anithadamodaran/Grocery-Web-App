@@ -4,12 +4,19 @@ Creating a full-stack Grocery Web App using the MERN stack (MongoDB, Express.js,
 Key Features for the Grocery Web App:
 
 User Authentication (Signup/Login/Logout) using JWT (JSON Web Tokens).
+
 Grocery Item Management (CRUD operations: Create, Read, Update, Delete).
+
 Add to Cart and Checkout functionality.
+
 Order History and tracking.
+
 Admin Panel to manage grocery items.
+
 Responsive Frontend using angular.
+
 Backend API using Express.js and Node.js.
+
 Database for storing user data, grocery items, and orders (MongoDB).
 
 Frontend:
