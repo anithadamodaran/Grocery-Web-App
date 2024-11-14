@@ -19,6 +19,7 @@ Backend API using Express.js and Node.js.
 
 Database for storing user data, grocery items, and orders (MongoDB).
 
+
 Frontend:
 
    1 Each component is a separate page or feature within the application. 
